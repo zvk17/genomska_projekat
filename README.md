@@ -1,0 +1,1 @@
+# Genomska informatika - projekat
