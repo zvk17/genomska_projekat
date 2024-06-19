@@ -1,4 +1,5 @@
-# Genomska informatika - projekat
+# Simulator Ilumina sekvencera
+Projekat iz predmeta Genomska informatika
 
 ## simulator.py - opcije
     -f, --input-file                            .fna fajl sa genomom
