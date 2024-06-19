@@ -1,5 +1,17 @@
 # Genomska informatika - projekat
 
+## simulator.py - opcije
+    -f, --input-file                            .fna fajl sa genomom
+    -n, --nucleotide-quality                    Prosečan kvalitet nukleotida
+    -s, --nucleotide-stddev                     Standardno odstupanje kvaliteta nukleotida
+    -c, --coverage                              Prosečna pokrivenost nukleotida
+    -m, --snv-error-rate                        Verovatnoća mutucije (*Single nucleotide variant*) pojedinačnog nukleotida
+    -i, --insertion-error-rate                  Verovatnoća insercije nukleotida
+    -d, --deletion-error-rate                   Verovatnoća delecije nukleotida
+    -o, --output-sam-file                       Generisani .sam fajl
+    --output-fq-file1                           Generisani .fq fajl
+    --output-fq-file2                           Generisani .fq fajl
+    
 ## Potrebne Python biblioteke
 - numpy==1.26.4
 - scipy==1.13.0
